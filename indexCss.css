@@ -249,3 +249,22 @@ footer{
 .fa-brands{
     background-color: gray;
 }
+
+@media screen and (max-width: 1020px) {
+    footer{
+        /* width: 80vws; */
+    }
+    .footerleft{
+        /* font-size: 0.2rem; */
+        margin-left: 2.1vw;
+        margin-right: 2.1vw;
+        padding-right: 1rem;
+    }
+    .footerright{
+        /* font-size: 0.2rem; */
+        margin: 0px;
+        margin-left: 1.1rem;
+
+    }
+    
+}
